@@ -118,7 +118,7 @@ This blend of **predictive intelligence** and **conversational AI** enhances rel
 
 ### Completed Work
 ✅Built an XGBoost regression model to predict EV driving range using vehicle, trip, and environmental features. 
-✅The model was trained, tuned, and evaluated with strong RMSE and MAE scores.
+✅The model was trained, tuned, and evaluated with strong RMSE and MAE scores.                
 ✅Feature importance highlighted battery capacity and driving conditions as key factors influencing predictions.
 
 ---
