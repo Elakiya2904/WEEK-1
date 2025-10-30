@@ -115,3 +115,19 @@ This blend of **predictive intelligence** and **conversational AI** enhances rel
 
 
 ---
+
+### Completed Work
+✅Built an XGBoost regression model to predict EV driving range using vehicle, trip, and environmental features. 
+✅The model was trained, tuned, and evaluated with strong RMSE and MAE scores.
+✅Feature importance highlighted battery capacity and driving conditions as key factors influencing predictions.
+
+---
+
+### Future Work
+
+- Integrate a generative AI-powered chatbot for natural language interaction.
+- Develop a Streamlit web app to host the prediction model and chatbot.
+- Enhance model accuracy by incorporating real-time data such as traffic, battery health, and driving patterns.
+- Explore advanced deep learning models like RNNs and GNNs for improved predictions.
+
+---
